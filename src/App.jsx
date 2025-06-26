@@ -196,10 +196,7 @@ function App() {
           Image Catalog to Excel
         </Typography>
 
-        <BannerImage
-          src="https://file.kikita.io/ipfs/bafkreiasxstg6yqwakolkxnxectwmv6spq6rp7h5yl7fdgt4gfop36zggi"
-          alt="Banner"
-        />
+        <BannerImage src="/banner.png" alt="Banner" />
 
         <FileInput>
           <Typography
